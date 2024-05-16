@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I am Hubert, and I love to code :)</h1>
+<h1 align="center">Hello! I am Hubert🐣, and I love to code :)</h1>
 <h3 align="center">
   I am a recent gradute of UOW Bachelor of Computer Science (Big Data & CyberSecurity)<br>
   Currently I am looking for opportunities in the CyberSecurity sector and while waiting, I'm working on projects in 42 Singapore!<br>
