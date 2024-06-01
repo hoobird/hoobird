@@ -8,6 +8,8 @@
 - 🔭 My 42 Journey ➡️ [42cursus Projects](https://github.com/hoobird/42cursus)
 - 📫 How to reach me <a href="mailto:&#x68;&#x6f;&#x6f;&#x62;&#x69;&#x72;&#x64;&#x40;&#x70;&#x72;&#x6f;&#x74;&#x6f;&#x6e;&#x2e;&#x6d;&#x65;">&#x68;&#x6f;&#x6f;&#x62;&#x69;&#x72;&#x64;&#x40;&#x70;&#x72;&#x6f;&#x74;&#x6f;&#x6e;&#x2e;&#x6d;&#x65;</a>
 - ⚡ Check out my latest graphics game project (C) ➡️ [so_long](https://github.com/hoobird/42cursus/tree/main/RANK02/so_long)
+- ⚡ Check out my latest file encryption/decryption program (Python) ➡️ [EnDeFileProg](https://github.com/hoobird/Encrypt-Decrypt-File-Program)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
