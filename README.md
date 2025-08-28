@@ -1,7 +1,8 @@
 <h1 align="center">Hello! I am Hubert🐣, and I love to code :)</h1>
 <h3 align="center">
-  I am a recent gradute of UOW Bachelor of Computer Science (Big Data & CyberSecurity)<br>
-  Currently I am looking for opportunities in the CyberSecurity sector and while waiting, I'm working on projects in 42 Singapore!<br>
+  I am a gradute of UOW Bachelor of Computer Science (Big Data & CyberSecurity)<br>
+  Currently I'm further studying in 42 Singapore!<br>
+  I recently interned at foodpanda as Software Engineer Intern (Android) <br>
   I hope you find my projects interesting :)
 </h3>
 
